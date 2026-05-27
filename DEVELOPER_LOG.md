@@ -112,3 +112,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 28: style(about): Optimize backdrop filter blur values for clean mobile read-states
 - Staged and verified architectural progress.
 
+
+## Commit 29: perf(about): GPU-accelerate lanyard vector calculations inside R3F frames
+- Staged and verified architectural progress.
+

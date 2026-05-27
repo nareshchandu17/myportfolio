@@ -12,3 +12,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 3: refactor: Plan transition from static layouts to full-stack portfolio framework
 - Staged and verified architectural progress.
 
+
+## Commit 4: config: Setup Tailwind CSS v4 compiler plugins and index utilities
+- Staged and verified architectural progress.
+

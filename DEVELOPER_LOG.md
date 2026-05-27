@@ -324,3 +324,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 81: refactor(chatroom): Plan transition from Firestore chatroom to email form
 - Staged and verified architectural progress.
 
+
+## Commit 82: feat(contact): Integrate FormSubmit.co serverless endpoint for direct inbox routing
+- Staged and verified architectural progress.
+

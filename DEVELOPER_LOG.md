@@ -212,3 +212,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 53: style(explore): Perfect glassmorphism borders and shadow reflections (v5)
 - Staged and verified architectural progress.
 
+
+## Commit 54: refactor(explore): Soften sharp section borders to glowing gradient overlays (v5)
+- Staged and verified architectural progress.
+

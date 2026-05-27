@@ -332,3 +332,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 83: style(contact): Design cinematic dual-column layouts with absolute viewport balance
 - Staged and verified architectural progress.
 
+
+## Commit 84: feat(contact): Add custom validations and error feedback styles to input controls
+- Staged and verified architectural progress.
+

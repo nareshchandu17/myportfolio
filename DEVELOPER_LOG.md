@@ -40,3 +40,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 10: style: Configure global Poppins font-stack and line-height scale rules
 - Staged and verified architectural progress.
 
+
+## Commit 11: feat(hero): Realign hero title copy and editorial subtitle parameters
+- Staged and verified architectural progress.
+

@@ -308,3 +308,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 77: style(timeline): Apply violet-pink-orange signature title gradients matching footer
 - Staged and verified architectural progress.
 
+
+## Commit 78: refactor(timeline): Resolve absolute overlapping perspective borders on vertical line
+- Staged and verified architectural progress.
+

@@ -352,3 +352,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 88: refactor(contact): Adjust contact layout breakouts using width: auto margins
 - Staged and verified architectural progress.
 
+
+## Commit 89: style(contact): Remove unwanted perspective background borders from contact area
+- Staged and verified architectural progress.
+

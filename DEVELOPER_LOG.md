@@ -8,3 +8,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 2: docs: Analyze section hierarchy and component tree architectural flow
 - Staged and verified architectural progress.
 
+
+## Commit 3: refactor: Plan transition from static layouts to full-stack portfolio framework
+- Staged and verified architectural progress.
+

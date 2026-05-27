@@ -96,3 +96,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 24: style(about): Apply RAPIER-compiled rigid-body rope connectors to lanyard
 - Staged and verified architectural progress.
 
+
+## Commit 25: refactor(about): Fine-tune gravity bounds and drag coefficients for lanyard
+- Staged and verified architectural progress.
+

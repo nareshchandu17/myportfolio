@@ -56,3 +56,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 14: style(hero): Polish profile avatar frame, glass boarder, and status indicators
 - Staged and verified architectural progress.
 
+
+## Commit 15: refactor(hero): Calibrate perspective tilt bounds in Profile Card drag states
+- Staged and verified architectural progress.
+

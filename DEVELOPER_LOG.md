@@ -48,3 +48,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 12: style(hero): Adjust hero container alignment and responsive spacing properties
 - Staged and verified architectural progress.
 
+
+## Commit 13: feat(hero): Implement 3D mouse-tracking Profile Card with holographic glow
+- Staged and verified architectural progress.
+

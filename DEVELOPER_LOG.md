@@ -28,3 +28,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 7: perf: Optimize simplex noise equations in Aurora shader for 60+ FPS rendering
 - Staged and verified architectural progress.
 
+
+## Commit 8: feat: Deploy WebGL fluid cursor dynamics drag simulation engine
+- Staged and verified architectural progress.
+

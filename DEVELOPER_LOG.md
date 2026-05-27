@@ -120,3 +120,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 30: style(about): Tighten vertical padding in about section for tighter alignment
 - Staged and verified architectural progress.
 
+
+## Commit 31: feat(tools): Restructure column layout inside tools & technologies section
+- Staged and verified architectural progress.
+

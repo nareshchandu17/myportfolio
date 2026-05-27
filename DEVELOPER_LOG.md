@@ -100,3 +100,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 25: refactor(about): Fine-tune gravity bounds and drag coefficients for lanyard
 - Staged and verified architectural progress.
 
+
+## Commit 26: style(about): Soften lanyard card shadow blur and ambient lighting states
+- Staged and verified architectural progress.
+

@@ -60,3 +60,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 15: refactor(hero): Calibrate perspective tilt bounds in Profile Card drag states
 - Staged and verified architectural progress.
 
+
+## Commit 16: style(hero): Perfect absolute margin boundaries to prevent viewport shifts
+- Staged and verified architectural progress.
+

@@ -76,3 +76,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 19: perf(hero): Reduce paint overhead in card glow radial calculations
 - Staged and verified architectural progress.
 
+
+## Commit 20: style(hero): Standardize breakout widths to resolve desktop scrollbar overflows
+- Staged and verified architectural progress.
+

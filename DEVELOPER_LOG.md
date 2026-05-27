@@ -180,3 +180,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 45: style(explore): Polish spotlight hover radius and highlight overlay bounds (v1)
 - Staged and verified architectural progress.
 
+
+## Commit 46: refactor(explore): Upgrade explore card spotlight logic for mobile touch (v2)
+- Staged and verified architectural progress.
+

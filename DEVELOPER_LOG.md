@@ -16,3 +16,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 4: config: Setup Tailwind CSS v4 compiler plugins and index utilities
 - Staged and verified architectural progress.
 
+
+## Commit 5: style: Define core HSL global color variables and glassmorphic base tokens
+- Staged and verified architectural progress.
+

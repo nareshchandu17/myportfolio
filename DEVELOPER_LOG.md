@@ -320,3 +320,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 80: style(timeline): Polish timeline card stack labels and bullet indicators
 - Staged and verified architectural progress.
 
+
+## Commit 81: refactor(chatroom): Plan transition from Firestore chatroom to email form
+- Staged and verified architectural progress.
+

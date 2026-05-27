@@ -184,3 +184,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 46: refactor(explore): Upgrade explore card spotlight logic for mobile touch (v2)
 - Staged and verified architectural progress.
 
+
+## Commit 47: style(explore): Soften background card blur and overlay opacity properties (v2)
+- Staged and verified architectural progress.
+

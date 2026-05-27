@@ -280,3 +280,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 70: docs(timeline): Document horizontal prototype metrics and design learnings
 - Staged and verified architectural progress.
 
+
+## Commit 71: feat(timeline): Rebuild engineering timeline as natural vertical scrolling track
+- Staged and verified architectural progress.
+

@@ -328,3 +328,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 82: feat(contact): Integrate FormSubmit.co serverless endpoint for direct inbox routing
 - Staged and verified architectural progress.
 
+
+## Commit 83: style(contact): Design cinematic dual-column layouts with absolute viewport balance
+- Staged and verified architectural progress.
+

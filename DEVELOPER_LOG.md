@@ -288,3 +288,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 72: style(timeline): Position vertical connector line with multi-color gradient fills
 - Staged and verified architectural progress.
 
+
+## Commit 73: feat(timeline): Wire vertical nodes to trigger simultaneous card scroll fades
+- Staged and verified architectural progress.
+

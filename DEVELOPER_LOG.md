@@ -292,3 +292,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 73: feat(timeline): Wire vertical nodes to trigger simultaneous card scroll fades
 - Staged and verified architectural progress.
 
+
+## Commit 74: style(timeline): Coordinate left-aligned years and right-aligned card slide animations
+- Staged and verified architectural progress.
+

@@ -412,3 +412,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 103: docs: Author elite-tier README.md featuring live cinematic preview images
 - Staged and verified architectural progress.
 
+
+## Commit 104: config: Realign Vite bundler output targets to support /myportfolio/ base route
+- Staged and verified architectural progress.
+

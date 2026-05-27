@@ -344,3 +344,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 86: feat(contact): Build animated successful message delivery confirmation theater
 - Staged and verified architectural progress.
 
+
+## Commit 87: style(contact): Align input borders with spotlight glowing border colors
+- Staged and verified architectural progress.
+

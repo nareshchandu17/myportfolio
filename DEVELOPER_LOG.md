@@ -68,3 +68,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 17: feat(hero): Set shiny text shimmer animation loops on hero headers
 - Staged and verified architectural progress.
 
+
+## Commit 18: style(hero): Refine text scale boundaries using fluid clamp declarations
+- Staged and verified architectural progress.
+

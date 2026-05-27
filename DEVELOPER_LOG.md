@@ -136,3 +136,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 34: style(tools): Apply interactive translate hover transformations to tool cards
 - Staged and verified architectural progress.
 
+
+## Commit 35: refactor(tools): Group tools by active domains: Frontend, Backend, and Systems
+- Staged and verified architectural progress.
+

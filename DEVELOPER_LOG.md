@@ -140,3 +140,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 35: refactor(tools): Group tools by active domains: Frontend, Backend, and Systems
 - Staged and verified architectural progress.
 
+
+## Commit 36: style(tools): Adjust relative margins to prevent overlaps in small screens
+- Staged and verified architectural progress.
+

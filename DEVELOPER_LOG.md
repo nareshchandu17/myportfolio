@@ -384,3 +384,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 96: feat(footer): Embed personal active social links and email redirection targets
 - Staged and verified architectural progress.
 
+
+## Commit 97: style(footer): Standardize social link hover scale shifts and glow highlights
+- Staged and verified architectural progress.
+

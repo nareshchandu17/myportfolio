@@ -20,3 +20,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 5: style: Define core HSL global color variables and glassmorphic base tokens
 - Staged and verified architectural progress.
 
+
+## Commit 6: feat: Integrate GPU-accelerated WebGL Aurora waving noise canvas background
+- Staged and verified architectural progress.
+

@@ -24,3 +24,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 6: feat: Integrate GPU-accelerated WebGL Aurora waving noise canvas background
 - Staged and verified architectural progress.
 
+
+## Commit 7: perf: Optimize simplex noise equations in Aurora shader for 60+ FPS rendering
+- Staged and verified architectural progress.
+

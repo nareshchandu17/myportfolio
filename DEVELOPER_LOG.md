@@ -64,3 +64,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 16: style(hero): Perfect absolute margin boundaries to prevent viewport shifts
 - Staged and verified architectural progress.
 
+
+## Commit 17: feat(hero): Set shiny text shimmer animation loops on hero headers
+- Staged and verified architectural progress.
+

@@ -108,3 +108,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 27: feat(about): Add custom shiny text highlights inside personal narrative text
 - Staged and verified architectural progress.
 
+
+## Commit 28: style(about): Optimize backdrop filter blur values for clean mobile read-states
+- Staged and verified architectural progress.
+

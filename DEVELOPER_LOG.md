@@ -52,3 +52,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 13: feat(hero): Implement 3D mouse-tracking Profile Card with holographic glow
 - Staged and verified architectural progress.
 
+
+## Commit 14: style(hero): Polish profile avatar frame, glass boarder, and status indicators
+- Staged and verified architectural progress.
+

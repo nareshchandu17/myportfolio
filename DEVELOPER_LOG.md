@@ -44,3 +44,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 11: feat(hero): Realign hero title copy and editorial subtitle parameters
 - Staged and verified architectural progress.
 
+
+## Commit 12: style(hero): Adjust hero container alignment and responsive spacing properties
+- Staged and verified architectural progress.
+

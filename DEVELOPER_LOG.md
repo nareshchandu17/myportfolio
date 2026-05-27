@@ -104,3 +104,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 26: style(about): Soften lanyard card shadow blur and ambient lighting states
 - Staged and verified architectural progress.
 
+
+## Commit 27: feat(about): Add custom shiny text highlights inside personal narrative text
+- Staged and verified architectural progress.
+

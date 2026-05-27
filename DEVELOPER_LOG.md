@@ -80,3 +80,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 20: style(hero): Standardize breakout widths to resolve desktop scrollbar overflows
 - Staged and verified architectural progress.
 
+
+## Commit 21: feat(about): Customize bio biography details to highlight full-stack skillset
+- Staged and verified architectural progress.
+

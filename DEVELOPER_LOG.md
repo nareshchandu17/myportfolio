@@ -228,3 +228,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 57: style(timeline): Style horizontal scroll track and node connector coordinates
 - Staged and verified architectural progress.
 
+
+## Commit 58: feat(timeline): Connect horizontal timeline with scroll triggers
+- Staged and verified architectural progress.
+

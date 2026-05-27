@@ -116,3 +116,7 @@ This log documents the iterative engineering workflow used to build the cinemati
 ## Commit 29: perf(about): GPU-accelerate lanyard vector calculations inside R3F frames
 - Staged and verified architectural progress.
 
+
+## Commit 30: style(about): Tighten vertical padding in about section for tighter alignment
+- Staged and verified architectural progress.
+

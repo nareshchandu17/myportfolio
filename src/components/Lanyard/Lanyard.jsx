@@ -8,7 +8,7 @@ import { MeshLineGeometry, MeshLineMaterial } from 'meshline';
 
 // replace with your own imports, see the usage snippet for details
 const cardGLB = `${import.meta.env.BASE_URL}assets/card.glb`;
-const lanyard = `${import.meta.env.BASE_URL}assets/lanyard.png`;
+const lanyard = `${import.meta.env.BASE_URL}assets/lanyard.webp`;
 
 import * as THREE from 'three';
 import './Lanyard.css';

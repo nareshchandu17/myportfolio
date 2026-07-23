@@ -6,25 +6,25 @@ const Image = {
 
 export default Image;
 
-import Tools1 from "/assets/tools/vscode.png";
-import Tools2 from "/assets/tools/reactjs.png";
-import Tools3 from "/assets/tools/nextjs.png";
-import Tools4 from "/assets/tools/tailwind.png";
-import Tools5 from "/assets/tools/bootstrap.png";
-import Tools6 from "/assets/tools/js.png";
-import Tools7 from "/assets/tools/nodejs.png";
-import Tools8 from "/assets/tools/github.png";
-import Tools9 from "/assets/tools/ai.png";
-import Tools10 from "/assets/tools/canva.png";
-import Tools11 from "/assets/tools/figma.png";
-import Tools12 from "/assets/tools/kotlin.png";
-import Tools13 from "/assets/tools/firebase.png";
-import Tools14 from "/assets/tools/html.png";
-import Tools15 from "/assets/tools/css.png";
-import Tools16 from "/assets/tools/ts.png";
-import Tools17 from "/assets/tools/php.png";
-import Tools18 from "/assets/tools/vite.png";
-import Tools19 from "/assets/tools/mysql.png";
+import Tools1 from "/assets/tools/vscode.webp";
+import Tools2 from "/assets/tools/reactjs.webp";
+import Tools3 from "/assets/tools/nextjs.webp";
+import Tools4 from "/assets/tools/tailwind.webp";
+import Tools5 from "/assets/tools/bootstrap.webp";
+import Tools6 from "/assets/tools/js.webp";
+import Tools7 from "/assets/tools/nodejs.webp";
+import Tools8 from "/assets/tools/github.webp";
+import Tools9 from "/assets/tools/ai.webp";
+import Tools10 from "/assets/tools/canva.webp";
+import Tools11 from "/assets/tools/figma.webp";
+import Tools12 from "/assets/tools/kotlin.webp";
+import Tools13 from "/assets/tools/firebase.webp";
+import Tools14 from "/assets/tools/html.webp";
+import Tools15 from "/assets/tools/css.webp";
+import Tools16 from "/assets/tools/ts.webp";
+import Tools17 from "/assets/tools/php.webp";
+import Tools18 from "/assets/tools/vite.webp";
+import Tools19 from "/assets/tools/mysql.webp";
 
 
 export const listTools = [
@@ -163,11 +163,11 @@ export const listTools = [
   },
 ];
 
-import Proyek1 from "/assets/proyek/p1.png";
-import Proyek2 from "/assets/proyek/movieflix.png";
-import Proyek3 from "/assets/proyek/floravia.png";
-import Proyek4 from "/assets/proyek/portfolio.png";
-import Proyek5 from "/assets/proyek/proyek5.jpg";
+import Proyek1 from "/assets/proyek/p1.webp";
+import Proyek2 from "/assets/proyek/movieflix.webp";
+import Proyek3 from "/assets/proyek/floravia.webp";
+import Proyek4 from "/assets/proyek/portfolio.webp";
+import Proyek5 from "/assets/proyek/proyek5.webp";
 
 export const listProyek = [
   {

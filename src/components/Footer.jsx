@@ -595,7 +595,7 @@ const Footer = () => {
           <div className="portfolio-footer__visual" aria-hidden="true">
             <span className="portfolio-footer__glyph" />
             <span className="portfolio-footer__avatar">
-              <img src="./assets/hero.png" alt="" />
+              <img src="./assets/hero.webp" alt="" />
             </span>
             <span className="portfolio-footer__status">Available for opportunities</span>
           </div>

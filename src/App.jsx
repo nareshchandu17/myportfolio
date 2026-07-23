@@ -340,7 +340,7 @@ function App() {
         <div className="hero hero-shell grid grid-cols-1 items-center gap-12 md:grid-cols-[minmax(0,1.04fr)_minmax(340px,0.72fr)] lg:gap-16">
           <div className="hero-copy animate__animated animate__fadeInUp animate__delay-3s">
             <div className="hero-pill">
-              <img src="./assets/naresh-avatar.png" alt="Naresh Chandu" />
+              <img src="./assets/naresh-avatar.webp" alt="Naresh Chandu" />
               <q>Turning ideas into scalable digital experiences.</q>
             </div>
             <h1 className="hero-title text-balance">
@@ -376,7 +376,7 @@ function App() {
               handle="nareshchandu"
               status="Online"
               contactText="Let's Connect"
-              avatarUrl="./assets/hero.png"
+              avatarUrl="./assets/hero.webp"
               showUserInfo={true}
               enableTilt={true}
               enableMobileTilt={false}
@@ -436,7 +436,7 @@ function App() {
 
             {/* Kolom kanan */}
             <div className="about-portrait">
-              <img src="./assets/lanyard1.png" alt="Naresh" />
+              <img src="./assets/lanyard1.webp" alt="Naresh" />
             </div>
           </div>
 

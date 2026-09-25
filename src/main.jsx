@@ -5,6 +5,7 @@ import App from './App.jsx'
 import Navbar from './components/Navbar.jsx'
 import Footer from './components/Footer.jsx'
 import PreLoader from './components/PreLoader.jsx'
+import { Analytics } from '@vercel/analytics/react'
 import "animate.css"
 import 'aos/dist/aos.css'; // You can also use <link> for styles
 
@@ -16,5 +17,6 @@ createRoot(document.getElementById('root')).render(
       <App />
       <Footer/>
     </div>
+    <Analytics />
   </StrictMode>,
 )
